@@ -1,0 +1,39 @@
+img{max-width: 100%;
+} 
+*{padding: 0%;
+margin: 0%;}
+header{ background-color: blue;
+    color: white;
+    text-align: center;
+    padding-top: 21px;
+    padding-bottom: 19px;
+    font-size: 61px;}
+.pineapple img{ width: 100%;
+margin-bottom: 89px;}
+/* .apple,.avocado,.orange{display: flex;} */
+/* .orange,.avocado,.apple{ display: inline;} */
+.fruit{
+    width: 963px;
+    margin: 0 auto;}
+    @media (min-width:540px){.fruit{display: flex;}}
+.apple {margin-right: 14px; }
+.avocado {margin-right: 14px;}
+.apple,.avovado,.orange{width: 33%;}
+/* .apple img,.avocado img,.orange img{width: 100%;} */
+/* .mango,.banana{display: inline;} */
+.morefruit{margin-top: 53px;
+text-align: center;
+color: blue;
+font-size: 75px;
+margin-bottom: 60px;}
+.moreimage{display: flex;
+    width: 968px;
+    margin: 0 auto;}
+.mango{margin-right: 70px; }
+footer{background-color: blue;
+    text-align: center;
+    margin-top: 110px;
+color: white;
+padding-top: 106px;
+font-size: 58px;
+padding-bottom: 69px;}
